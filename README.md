@@ -4,7 +4,7 @@ This dataset is the outcome of my PhD thesis entitled “How Product Designs Evo
 
 This dataset is licensed under Attribution 4.0 International, which allows for adaptation, remixing, transformation as long as proper attribution is given. If you use this dataset, please consider citing my thesis:
 
-de Lima Filho, M. A. (2023). How Product Designs Evolve [Doctoral dissertation, Northumbria University Newcastle]. http://www.designevolution.wiki. 
+Lima Filho, M. A. (2023). How Product Designs Evolve [Doctoral dissertation, Northumbria University Newcastle]. http://www.designevolution.wiki. 
 
 **Key columns in this dataset include:**
 
