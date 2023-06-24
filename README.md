@@ -2,6 +2,19 @@
 
 This dataset is the outcome of my PhD thesis entitled “How Product Designs Evolve”. This study analysed the data sheets of 13,212 mobile phones released globally by 297 brands. This census covered the specifications of feature phones, personal digital assistants (PDAs), and smartphones released between January 2000 and December 2020. Data was collected from specialised mobile phone comparison websites, and 91 product attributes and performance indicators were gathered for each smartphone model. For more information on the methodology, please refer to my thesis at www.designevolution.wiki
 
+| **Dataset:**            | **Census of Smartphone Technology**                                                                                                                                                                        |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Purpose:**            | This census traces the evolution smartphone technology. It aims to cover the product specifications of all feature phones, personal digital assistants (PDAs), and smartphones released between 2000 and 2020. |
+| Time Coverage:          | 2000 - 2020                                                                                                                                                                                                |
+| Statistical Population: | All smartphones                                                                                                                                                                                            |
+| Population Size:        | 13,212 smartphone models                                                                                                                                                                                   |
+| Brands:                 | 297 brands, from 32 countries, with global reach                                                                                                                                                           |
+| Inclusion Criteria:     | Feature phones, PDAs, and smartphones                                                                                                                                                                      |
+| Exclusion Criteria:     | Bar scanners, portable music players, tablets, smartwatches                                                                                                                                                |
+| Area:                   | Globally                                                                                                                                                                                                   |
+| Types of Data:          | Product Specifications (data sheets)                                                                                                                                                                       |
+| Periodicity:            | Annual                                                                                                                                                                                                     |
+
 This dataset is licensed under Attribution 4.0 International, which allows for adaptation, remixing, transformation as long as proper attribution is given. If you use this dataset, please consider citing my thesis:
 
 Lima Filho, M. A. (2023). How Product Designs Evolve [Doctoral dissertation, Northumbria University Newcastle]. http://www.designevolution.wiki. 
