@@ -4,7 +4,7 @@ For illustration purposes, this tutorial calculates the percentage representatio
 **Microsoft Excel:**
 
 1. Open the dataset in Excel.
-2. Navigate to the "Insert" tab on the ribbon and select "PivotTable". Confirm the table range and choose where you want the PivotTable to be placed (New Worksheet).
+2. Navigate to the "Insert" tab on the ribbon and select "Pivot Table". Confirm the table range and choose where you want the Pivot Table to be placed (New Worksheet).
 3. In the Pivot Table Settings (right side), drag and drop the 'Release Year' to Rows section, 'Form Factor 2' to Columns section, and 'ID' to Values section. 
 4. In the Values section, click on the drop-down next to 'ID' and select 'Field Settings'. Change the calculation to 'Count'.
 5. To compute the percentages, go to 'Field Settings' again, select 'Show Values As', then '% of Row'.
